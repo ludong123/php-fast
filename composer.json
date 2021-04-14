@@ -1,7 +1,7 @@
 {
     "name": "lfaster/lu-fuc",
     "description": "php class collect",
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "authors": [{
         "name": "ludong",
